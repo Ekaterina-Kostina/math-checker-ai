@@ -10,14 +10,14 @@ The goal is to reduce teachers’ manual workload in grading and speed up feedba
 ## Goal
 
 Build an MVP that:
-- accepts an image with a handwritten math solution,  
-- recognizes text and mathematical formulas,  
-- outputs a clean digital version of the solution.
+- accepts an image with a handwritten math solution  
+- recognizes text and mathematical formulas
+- outputs a clean digital version of the solution
 
 Future versions may include:
-- automatic error detection,  
-- reasoning analysis,  
-- feedback generation via LLMs.
+- automatic error detection  
+- reasoning analysis  
+- feedback generation via LLMs
 
 ---
 
